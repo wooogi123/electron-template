@@ -1,0 +1,17 @@
+{
+  "name": "electron-template",
+  "version": "0.1.0",
+  "main": "main.js",
+  "repository": "https://github.com/wooogi123/electron-template.git",
+  "author": "Lee Jaeuk <wooogi123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^11.2.3"
+  },
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
